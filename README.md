@@ -1,7 +1,7 @@
 - 👋 Salut, I’m @HylintDLC
 - Créateur développeut en tous genre !
-- Je n'ai pas grand chose à dire mais rejoindnez mon discord
-- dicord : https://discord.gg/c9ZMqvMUEE
+- Je n'ai pas grand chose à dire mais rejoingnez mon discord
+- LuckyModding : https://discord.gg/c9ZMqvMUEE
 
 
 <!---
