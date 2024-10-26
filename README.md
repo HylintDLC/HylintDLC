@@ -1,8 +1,7 @@
 - 👋 Salut, I’m @HylintDLC
 - Créateur développeur en tout genre !
-- Je n'ai pas grand chose à dire mais rejoingnez mon discord
-- LuckyModding : https://discord.gg/c9ZMqvMUEE
-
+- Je n'ai pas grand-chose à dire, mais rejoignez mon Discord
+- LuckyModding : https://discord.gg/luckymods
 
 <!---
 HylintDLC/HylintDLC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
